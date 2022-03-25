@@ -2,8 +2,7 @@
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  This website is for beginners who found flutter tough to learn. We will try our best to teach you flutter in easier and more readable way. Flutter for Human. Enjoy!
 hide_description: true
 redirect_from:
   - /download/
@@ -13,9 +12,9 @@ redirect_from:
 
 <!--author-->
 
-## Hydejack
+## FFN
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+FlutterForNoobs are your website. You will learn flutter from scrach. All the contents will be made simple by breaking all the tough task in liquid form. Enjoy!  
 {:.lead}
 
 1. this list will be replaced by the toc
